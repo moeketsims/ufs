@@ -1,0 +1,345 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "main-building",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18644,
+     -29.11064
+    ]
+   },
+   "properties": {
+    "id": "main-building",
+    "name": "Main Building (Bldg 1)",
+    "campus": "Bloemfontein",
+    "type": "Heritage / administration",
+    "confidence": "medium-high",
+    "method": "Waze place listing",
+    "source": "https://www.waze.com/live-map/directions/za/fs/bloemfontein/ufs-main-building?to=place.ChIJUSnI9CjFjx4Ru1UywwjHPLw"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "abraham-fischer",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18602,
+     -29.11161
+    ]
+   },
+   "properties": {
+    "id": "abraham-fischer",
+    "name": "Abraham Fischer Residence (Bldg 102)",
+    "campus": "Bloemfontein",
+    "type": "Heritage residence",
+    "confidence": "high",
+    "method": "UFS GPS guide (DMS converted)",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "red-square",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.187,
+     -29.11
+    ]
+   },
+   "properties": {
+    "id": "red-square",
+    "name": "Red Square",
+    "campus": "Bloemfontein",
+    "type": "Plaza",
+    "confidence": "low",
+    "method": "Described as in front of the Main Building; position estimated",
+    "source": "https://www.ufs.ac.za/supportservices/departments/international-affairs/unlisted-pages/ufs-campuses/bloemfontein-campus"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "thakaneng-bridge",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18423,
+     -29.10975
+    ]
+   },
+   "properties": {
+    "id": "thakaneng-bridge",
+    "name": "Thakaneng Bridge (Bldg 131)",
+    "campus": "Bloemfontein",
+    "type": "Student centre",
+    "confidence": "high",
+    "method": "UFS GPS guide; Waze agrees within ~15 m",
+    "source": "https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "sasol-library",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18329,
+     -29.10968
+    ]
+   },
+   "properties": {
+    "id": "sasol-library",
+    "name": "UFS-Sasol Library (Bldg 60)",
+    "campus": "Bloemfontein",
+    "type": "Library",
+    "confidence": "high",
+    "method": "UFS GPS guide",
+    "source": "https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "physics",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18526,
+     -29.11057
+    ]
+   },
+   "properties": {
+    "id": "physics",
+    "name": "Physics Building (Bldg 4)",
+    "campus": "Bloemfontein",
+    "type": "Faculty",
+    "confidence": "high",
+    "method": "UFS GPS guide",
+    "source": "https://www.ufs.ac.za/natagri/departments-and-divisions/physics-home/general/location"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "centenary-complex",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18705,
+     -29.11235
+    ]
+   },
+   "properties": {
+    "id": "centenary-complex",
+    "name": "Centenary Complex (Bldg 101)",
+    "campus": "Bloemfontein",
+    "type": "Lecture / exhibition",
+    "confidence": "high",
+    "method": "UFS GPS guide",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "callie-human",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18879,
+     -29.11299
+    ]
+   },
+   "properties": {
+    "id": "callie-human",
+    "name": "Callie Human Centre (Bldg 19)",
+    "campus": "Bloemfontein",
+    "type": "Hall / graduations",
+    "confidence": "high",
+    "method": "UFS GPS guide; Waze agrees",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "odeion",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.191,
+     -29.11081
+    ]
+   },
+   "properties": {
+    "id": "odeion",
+    "name": "Odeion (Bldg 46)",
+    "campus": "Bloemfontein",
+    "type": "Music venue",
+    "confidence": "high",
+    "method": "UFS GPS guide; Waze agrees",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "agriculture",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.1875,
+     -29.10842
+    ]
+   },
+   "properties": {
+    "id": "agriculture",
+    "name": "Agriculture Building (Bldg 10)",
+    "campus": "Bloemfontein",
+    "type": "Faculty",
+    "confidence": "high",
+    "method": "UFS GPS guide",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "kovsiekerk",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.18878,
+     -29.10586
+    ]
+   },
+   "properties": {
+    "id": "kovsiekerk",
+    "name": "Kovsiekerk / Kopanong Auditorium (Bldg 145)",
+    "campus": "Bloemfontein",
+    "type": "Church / auditorium",
+    "confidence": "medium",
+    "method": "UFS GPS guide; plots north of the Main Gate latitude so check the fence line",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "shimla-park",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.17142,
+     -29.10856
+    ]
+   },
+   "properties": {
+    "id": "shimla-park",
+    "name": "Shimla Park (Bldg 74)",
+    "campus": "Bloemfontein",
+    "type": "Rugby stadium",
+    "confidence": "medium-high",
+    "method": "UFS GPS guide; Waze ~90 m away",
+    "source": "https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "gate-1",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.19239,
+     -29.10757
+    ]
+   },
+   "properties": {
+    "id": "gate-1",
+    "name": "Gate 1 Main Gate (Nelson Mandela Drive)",
+    "campus": "Bloemfontein",
+    "type": "Entrance",
+    "confidence": "high",
+    "method": "Waze; Physics department page",
+    "source": "https://www.waze.com/live-map/directions/ufs-gate-1-main-gate-bloemfontein?to=place.w.17171941.171653873.14193752"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "gate-5",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.186805,
+     -29.107501
+    ]
+   },
+   "properties": {
+    "id": "gate-5",
+    "name": "Gate 5 DF Malherbe (visitors)",
+    "campus": "Bloemfontein",
+    "type": "Entrance",
+    "confidence": "high",
+    "method": "UFS maps page",
+    "source": "https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "visitors-centre",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.187284,
+     -29.107376
+    ]
+   },
+   "properties": {
+    "id": "visitors-centre",
+    "name": "Visitors Centre",
+    "campus": "Bloemfontein",
+    "type": "Reception",
+    "confidence": "high",
+    "method": "UFS maps page",
+    "source": "https://www.ufs.ac.za/about-the-ufs/visit-the-ufs/maps-of-our-campuses"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "south-campus",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.216364,
+     -29.181819
+    ]
+   },
+   "properties": {
+    "id": "south-campus",
+    "name": "South Campus (UFS point)",
+    "campus": "South Campus",
+    "type": "Campus",
+    "confidence": "high",
+    "method": "UFS maps page",
+    "source": "https://www.ufs.ac.za/southcampus"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "qwaqwa-campus",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.823281,
+     -28.486241
+    ]
+   },
+   "properties": {
+    "id": "qwaqwa-campus",
+    "name": "Qwaqwa Campus (UFS point)",
+    "campus": "Qwaqwa",
+    "type": "Campus",
+    "confidence": "high",
+    "method": "UFS maps page / 2016 Qwaqwa profile",
+    "source": "https://www.ufs.ac.za/docs/default-source/all-documents/2016-qwaqwa-profile.pdf?sfvrsn=0"
+   }
+  }
+ ]
+}

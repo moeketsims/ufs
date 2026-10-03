@@ -1,0 +1,18 @@
+id,name,campus,type,lat,lon,confidence,method,source
+main-building,Main Building (Bldg 1),Bloemfontein,Heritage / administration,-29.11064,26.18644,medium-high,Waze place listing,https://www.waze.com/live-map/directions/za/fs/bloemfontein/ufs-main-building?to=place.ChIJUSnI9CjFjx4Ru1UywwjHPLw
+abraham-fischer,Abraham Fischer Residence (Bldg 102),Bloemfontein,Heritage residence,-29.11161,26.18602,high,UFS GPS guide (DMS converted),https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+red-square,Red Square,Bloemfontein,Plaza,-29.110,26.187,low,"Described as in front of the Main Building; position estimated",https://www.ufs.ac.za/supportservices/departments/international-affairs/unlisted-pages/ufs-campuses/bloemfontein-campus
+thakaneng-bridge,Thakaneng Bridge (Bldg 131),Bloemfontein,Student centre,-29.10975,26.18423,high,UFS GPS guide; Waze agrees within ~15 m,https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2
+sasol-library,UFS-Sasol Library (Bldg 60),Bloemfontein,Library,-29.10968,26.18329,high,UFS GPS guide,https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2
+physics,Physics Building (Bldg 4),Bloemfontein,Faculty,-29.11057,26.18526,high,UFS GPS guide,https://www.ufs.ac.za/natagri/departments-and-divisions/physics-home/general/location
+centenary-complex,Centenary Complex (Bldg 101),Bloemfontein,Lecture / exhibition,-29.11235,26.18705,high,UFS GPS guide,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+callie-human,Callie Human Centre (Bldg 19),Bloemfontein,Hall / graduations,-29.11299,26.18879,high,UFS GPS guide; Waze agrees,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+odeion,Odeion (Bldg 46),Bloemfontein,Music venue,-29.11081,26.19100,high,UFS GPS guide; Waze agrees,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+agriculture,Agriculture Building (Bldg 10),Bloemfontein,Faculty,-29.10842,26.18750,high,UFS GPS guide,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+kovsiekerk,Kovsiekerk / Kopanong Auditorium (Bldg 145),Bloemfontein,Church / auditorium,-29.10586,26.18878,medium,UFS GPS guide; plots north of the Main Gate latitude so check the fence line,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+shimla-park,Shimla Park (Bldg 74),Bloemfontein,Rugby stadium,-29.10856,26.17142,medium-high,UFS GPS guide; Waze ~90 m away,https://www.ufs.ac.za/docs/librariesprovider31/default-document-library/pocket-guide.pdf?sfvrsn=2
+gate-1,Gate 1 Main Gate (Nelson Mandela Drive),Bloemfontein,Entrance,-29.10757,26.19239,high,Waze; Physics department page,https://www.waze.com/live-map/directions/ufs-gate-1-main-gate-bloemfontein?to=place.w.17171941.171653873.14193752
+gate-5,Gate 5 DF Malherbe (visitors),Bloemfontein,Entrance,-29.107501,26.186805,high,UFS maps page,https://www.ufs.ac.za/docs/default-source/ufs-news-list/gps-gateway-guide.pdf?sfvrsn=d031b721_2
+visitors-centre,Visitors Centre,Bloemfontein,Reception,-29.107376,26.187284,high,UFS maps page,https://www.ufs.ac.za/about-the-ufs/visit-the-ufs/maps-of-our-campuses
+south-campus,South Campus (UFS point),South Campus,Campus,-29.181819,26.216364,high,UFS maps page,https://www.ufs.ac.za/southcampus
+qwaqwa-campus,Qwaqwa Campus (UFS point),Qwaqwa,Campus,-28.486241,28.823281,high,UFS maps page / 2016 Qwaqwa profile,https://www.ufs.ac.za/docs/default-source/all-documents/2016-qwaqwa-profile.pdf?sfvrsn=0
